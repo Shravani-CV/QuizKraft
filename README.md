@@ -3,8 +3,6 @@
 Welcome to **QuizKraft**, a cutting-edge GenAI Quiz Making Application built with Streamlit, Python, and Langchain. Create dynamic and engaging quizzes effortlessly and review their summaries with ease!
 
 ---
-![Home Page](src/images/1quiz.png)
-
 *Home Page of QuizKraft*
 ---
 

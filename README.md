@@ -17,6 +17,7 @@ Welcome to **QuizKraft**, a cutting-edge GenAI Quiz Making Application built wit
 - 📊 **Review System**: Summarizes quizzes for quick insights.
 
 ---
+<img width="1090" alt="quiz_output" src="https://github.com/user-attachments/assets/00d408ba-240c-4070-9213-29096d5c2cc2">
 
 *Creating a Quiz with QuizKraft*
 ---

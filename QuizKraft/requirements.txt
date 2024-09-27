@@ -1,9 +1,0 @@
-openai
-langchain
-streamlit
-python-dotenv
-PyPDF2
-langchain-community
-langchain-openai
-
--e . # to install local packages to virtual enviornments
